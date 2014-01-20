@@ -27,6 +27,19 @@ body
 	margin: 0;
 }
 /* así se escriben los comentarios en css */
+footer
+{
+	background: #434343;
+	color: #A7A7A7;
+	padding: 1em 0;
+	text-align: center;
+	text-shadow: -1px -1px #818181, 1px 1px black;
+	width: 100%
+}
+footer p
+{
+	margin: 0;
+}
 header
 {
 	background: #434343;
